@@ -52,6 +52,6 @@ Each notebook outputs:
 ## Applications
 This simulation framework supports the development of ionospheric sounding systems, including preflight modeling for nanosatellite missions (e.g., CubeSat-based ionosondes) and ground-based radar experiments.
 
-## 🔬 License & Authors
+## License & Authors
 Developed by Eric Zou and the TIRI team at Montgomery Blair High School.
 Licensed under the MIT License.
